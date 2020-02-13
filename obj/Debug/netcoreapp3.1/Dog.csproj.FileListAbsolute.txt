@@ -1,0 +1,11 @@
+C:\Users\kassi\Desktop\InfoTech2040\Dog\bin\Debug\netcoreapp3.1\Dog.exe
+C:\Users\kassi\Desktop\InfoTech2040\Dog\bin\Debug\netcoreapp3.1\Dog.deps.json
+C:\Users\kassi\Desktop\InfoTech2040\Dog\bin\Debug\netcoreapp3.1\Dog.runtimeconfig.json
+C:\Users\kassi\Desktop\InfoTech2040\Dog\bin\Debug\netcoreapp3.1\Dog.runtimeconfig.dev.json
+C:\Users\kassi\Desktop\InfoTech2040\Dog\bin\Debug\netcoreapp3.1\Dog.dll
+C:\Users\kassi\Desktop\InfoTech2040\Dog\bin\Debug\netcoreapp3.1\Dog.pdb
+C:\Users\kassi\Desktop\InfoTech2040\Dog\obj\Debug\netcoreapp3.1\Dog.csprojAssemblyReference.cache
+C:\Users\kassi\Desktop\InfoTech2040\Dog\obj\Debug\netcoreapp3.1\Dog.AssemblyInfoInputs.cache
+C:\Users\kassi\Desktop\InfoTech2040\Dog\obj\Debug\netcoreapp3.1\Dog.AssemblyInfo.cs
+C:\Users\kassi\Desktop\InfoTech2040\Dog\obj\Debug\netcoreapp3.1\Dog.dll
+C:\Users\kassi\Desktop\InfoTech2040\Dog\obj\Debug\netcoreapp3.1\Dog.pdb
